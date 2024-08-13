@@ -48,6 +48,12 @@ Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data
 - Data Driven Decision-Making for Business Professional (LinkedIn Learning Certificate)
 
 ## Projects
+
 ### Top-selling Amazon Kindle books of 2023
+- Conducted a comprehensive data analysis of Amazon's top-selling books in 2023, identifying trends and patterns in genre popularity, pricing strategies, and author demographics.
+- Visualized key insights using interactive charts and graphs, showcasing the dominance of specific genres and price ranges among bestsellers.
+- Recommended targeted marketing strategies for publishers based on findings, focusing on emerging genres and pricing models that drive higher sales.
+- Improved data-driven decision-making for stakeholders by presenting clear and actionable insights into consumer preferences and market dynamics.
+
 [Publications](https://github.com/iprashantronsa/top_selling_books_2023_analysis)
 ![books.png…](/assets/books.png)
