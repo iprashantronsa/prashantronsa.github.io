@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Ronsa</h1>
 <h3 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h3>
 
-- 👨‍💻 All of my projects are available at [prashantronsa.github.io](prashantronsa.github.io)
+- 👨‍💻 Go to my website at [https://prashantron5a.wixsite.com/pronsa)
 
 - 📫 How to reach me **iprashantronsa@icloud.com**
 
