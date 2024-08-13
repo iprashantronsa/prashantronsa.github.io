@@ -13,6 +13,14 @@
 <a href="https://kaggle.com/prashantronsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iprashantronsa" height="30" width="40" /></a>
 </p>
 
+# Skills
+### Programming & Databases: Python (Pandas, NumPy, Matplotlib, SciKit-Learn, Seaborn, TensorFlow, PyTorch), R, MySQL, BigQuery (GBQ)
+### BI Tools: Tableau, Power BI, Tableau, Looker, Microsoft Excel (Advanced)
+### Data Analysis & Reporting: SQL, SSRS, Google Analytics 4 (GA4), VLOOKUP, Pivot Tables
+### Project Management: Jira
+### Techniques: A/B Testing, Customer Segmentation, Data Visualization, KPI Dashboards, Market Research, Marketing Mix Modelling (MMM), Multi-touch Attribution (MTA)
+### Cloud Knowledge: AWS, Azure, Google Cloud (GCP), Salesforce
+
 # Work Experience
 
 #### Trtl, Machine Learning Dissertation Project (Glasgow, UK)        May 2023 - Aug 2023
