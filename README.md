@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/http://linkedin.com/in/prashantronsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/prashantronsa/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iprashantronsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iprashantronsa" height="30" width="40" /></a>
 </p>
 
@@ -17,4 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprashantronsa&show_icons=true&locale=en&layout=compact" alt="iprashantronsa" /></p>
 
 <h3 align="left">Business Intelligence Tools:</h3>
-![PowerBI](https://github.com/user-attachments/assets/a07a905d-171c-43b7-b6c1-00933975e73b)
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
