@@ -50,4 +50,4 @@ Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data
 ## Projects
 ### Top-selling Amazon Kindle books of 2023
 [Publications](https://github.com/iprashantronsa/top_selling_books_2023_analysis)
-![Uploading image.png…](main/assets/books.png)
+![books.png…](/assets/books.png)
