@@ -1,4 +1,4 @@
-# prashantronsa.github.io
+![image](https://github.com/user-attachments/assets/de06067e-99df-460e-a308-27f8c361b3a6)# prashantronsa.github.io
 <h1 align="center">Hi 👋, I'm Prashant Ronsa</h1>
 <h2 align="center">BI & DATA ANALYST</h2>
 <h4 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h4>
@@ -50,4 +50,4 @@ Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data
 ## Projects
 ### Top-selling Amazon Kindle books of 2023
 [Publications](https://github.com/iprashantronsa/top_selling_books_2023_analysis)
-
+![Uploading image.png…](main/assets/books.png)
