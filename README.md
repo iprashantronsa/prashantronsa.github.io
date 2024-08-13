@@ -46,3 +46,8 @@ Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data
 - SQL for Data Analysis (LinkedIn Learning Certificate)
 - AWS Certified Cloud Practitioner (LinkedIn Learning Certificate)
 - Data Driven Decision-Making for Business Professional (LinkedIn Learning Certificate)
+
+## Projects
+### Top-selling Amazon Kindle books of 2023
+[Publications](https://github.com/iprashantronsa/top_selling_books_2023_analysis)
+
