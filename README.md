@@ -13,10 +13,10 @@
 <a href="https://kaggle.com/prashantronsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iprashantronsa" height="30" width="40" /></a>
 </p>
 
-#### Core Competencies
+### Core Competencies
 Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing, Project Management, Reporting
 
-# Work Experience
+### Work Experience
 
 #### Trtl, Machine Learning Dissertation Project (Glasgow, UK)        May 2023 - Aug 2023
 - Developed a Machine Learning Logo Detection Model using YOLOv8 with 94% accuracy, for a UK-based travel essentials client.
