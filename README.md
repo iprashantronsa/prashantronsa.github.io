@@ -1,6 +1,6 @@
 # prashantronsa.github.io
 <h1 align="center">Hi 👋, I'm Prashant Ronsa</h1>
-<h2 align="center">BI & DATA ANALYST</h2>h1>
+<h2 align="center">BI & DATA ANALYST</h2>
 <h4 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h4>
 
 - 👨‍💻 Go to my website at [https://prashantron5a.wixsite.com/pronsa)
