@@ -1,6 +1,6 @@
 <img width="1323" alt="linkedin cover" src="https://github.com/user-attachments/assets/c177a975-d5e0-4d3e-b11f-675ae4962cae">
 
-<h4 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h4>
+<h3 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h4>
 
 - 👨‍💻 Go to my website at [https://prashantron5a.wixsite.com/pronsa)
 
