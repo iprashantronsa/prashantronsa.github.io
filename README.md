@@ -5,7 +5,7 @@
 
 - 👨‍💻 Go to my website at [https://prashantron5a.wixsite.com/pronsa)
 
-- 📫 How to reach me **iprashantronsa@icloud.com**
+- 📫 How to reach me iprashantronsa@icloud.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
