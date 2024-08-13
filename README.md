@@ -18,4 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprashantronsa&show_icons=true&locale=en&layout=compact" alt="iprashantronsa" /></p>
 
 <h3 align="left">Business Intelligence Tools:</h3>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="80" height="80"/> </a> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> 
