@@ -15,12 +15,12 @@
 
 <h1 align="center"> Work Experience </h1>
 
-# Trtl, Machine Learning Dissertation Project (Glasgow, UK)        May 2023 - Aug 2023
+### Trtl, Machine Learning Dissertation Project (Glasgow, UK)        May 2023 - Aug 2023
 - Developed a Machine Learning Logo Detection Model using YOLOv8 with 94% accuracy, for a UK-based travel essentials client.
 - Enhanced model robustness with a diverse dataset of 160 authentic and 2,500 synthetic images generated usign python library augly.
 - Demonstrated the model's potential as a powerful anti-counterfeiting tool.
 
-# Associate Manager, HCL Technologies (Noida, India)               Feb 2021 - Sep 2022
+### Associate Manager, HCL Technologies (Noida, India)               Feb 2021 - Sep 2022
 - Utilized SQL to extract and manipulate large datasets, and developed ETL/ELT pipelines, ensuring seamless data flow and integration.
 - Created dashboards and reports in Power BI for internal executives, to monitor key performance indicators (KPIs), resulting in a 20% increase in data-driven decision-making.
 - Collaborated with stakeholders to identify data needs and provided actionable insights, leading to a 15% improvement in operational efficiency.
