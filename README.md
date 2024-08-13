@@ -17,5 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprashantronsa&show_icons=true&locale=en&layout=compact" alt="iprashantronsa" /></p>
 
 <h3 align="left">Business Intelligence Tools:</h3>
-![Tableau](https://github.com/user-attachments/assets/ef656eb3-c000-4ac0-b2c3-71a44f3c623b)
-![Looker_Logo_Horizontal_FullColor_Logo](https://github.com/user-attachments/assets/2ea152c9-22f7-4ca8-940e-ce333a8df8af)
+![PowerBI](https://github.com/user-attachments/assets/a07a905d-171c-43b7-b6c1-00933975e73b)
