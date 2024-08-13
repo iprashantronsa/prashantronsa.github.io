@@ -17,3 +17,10 @@
 
 <h3 align="left">Business Intelligence Tools:</h3>
 <p align="left"> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="powerbi" width="140" height="80"/> </a> <a href="https://lookerstudio.google.com/u/0/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/jqycac4nitgaoauawrxg" alt="looker" width="80" height="80"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="100" height="100"/>
+
+<h3 align="left">Certifications:</h3>
+- Data Visualisation Virtual Program (Tata Group)
+- Agile Virtual Experience Program (JPMorgan Chase & Co.)
+- SQL for Data Analysis (LinkedIn Learning Certificate)
+- AWS Certified Cloud Practitioner (LinkedIn Learning Certificate)
+- Data Driven Decision-Making for Business Professional (LinkedIn Learning Certificate)
