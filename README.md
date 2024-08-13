@@ -16,6 +16,10 @@
 ## Core Competencies
 Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing, Project Management, Reporting
 
+## Education
+- M.Sc., Data Analytics | University of Strathclyde, Glasgow UK (Nov 2023)
+- B.Tech., Electronics and Communication | Dr. APJ Abdul Kalam Technical University, Uttar Pradesh India (June 2015)
+
 ## Work Experience
 
 #### Trtl, Machine Learning Dissertation Project (Glasgow, UK)        May 2023 - Aug 2023
