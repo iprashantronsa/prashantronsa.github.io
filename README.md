@@ -1,7 +1,5 @@
 <img width="1323" alt="linkedin cover" src="https://github.com/user-attachments/assets/c177a975-d5e0-4d3e-b11f-675ae4962cae">
 
-<h1 align="center">Hi 👋, I'm Prashant Ronsa</h1>
-<h2 align="center">BI & DATA ANALYST</h2>
 <h4 align="center">Passionate Data Analytics professional with specialized skills in Machine Learning, Statistical techniques and Business Intelligence</h4>
 
 - 👨‍💻 Go to my website at [https://prashantron5a.wixsite.com/pronsa)
@@ -15,7 +13,7 @@
 </p>
 
 ## Core Competencies
-Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing, Project Management, Reporting
+Statistical Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing (AWS/Azure), Project Management, Reporting, Collaborative, Agile
 
 ## Education
 - M.Sc., Data Analytics | University of Strathclyde, Glasgow UK (Nov 2023)
