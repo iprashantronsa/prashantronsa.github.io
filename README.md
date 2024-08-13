@@ -13,7 +13,8 @@
 <a href="https://kaggle.com/prashantronsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iprashantronsa" height="30" width="40" /></a>
 </p>
 
-#### Core Competencies: Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing, Project Management, Reporting
+#### Core Competencies
+Data Analysis, Business Intelligence, Machine Learning, Data Visualization, Data Modelling, Data Management, Market Research, Cloud Computing, Project Management, Reporting
 
 # Work Experience
 
